@@ -11,3 +11,4 @@
 ## Pertemuan 1
 
 Berikut adalah hasil dokumentasi/screenshot dari praktikum Pertemuan 1:
+![Pertemuan 1](screenshot/ss_tampilan_aplikasi.jpeg)
